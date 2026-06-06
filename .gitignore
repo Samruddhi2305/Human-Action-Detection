@@ -1,0 +1,12 @@
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS Metadata
+.DS_Store
+Thumbs.db
