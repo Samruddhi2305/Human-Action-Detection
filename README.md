@@ -5,7 +5,7 @@ This repository contains a Jupyter Notebook implementation for predicting and cl
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 Detecting human activities using wearable sensor telemetry is a key component of modern health-tracking devices, smart assistants, and sports science applications. This project builds a supervised classification pipeline that maps continuous sensor signals to specific physical postures and movements.
 
@@ -22,7 +22,7 @@ Detecting human activities using wearable sensor telemetry is a key component of
 
 ---
 
-## 📈 Notebook Workflow
+## Notebook Workflow
 
 The implementation is structured inside [`Human_Action_Detection.ipynb`](Human_Action_Detection.ipynb) as follows:
 
@@ -48,7 +48,7 @@ The implementation is structured inside [`Human_Action_Detection.ipynb`](Human_A
 
 ---
 
-## ⚙️ Installation & Usage
+## Installation & Usage
 
 ### 1. Install Dependencies
 Make sure you have Python installed, then install the required libraries:
@@ -65,5 +65,5 @@ Open [`Human_Action_Detection.ipynb`](Human_Action_Detection.ipynb) and run all 
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
